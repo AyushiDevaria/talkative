@@ -11,7 +11,7 @@ For client :
 Clone the project
 
 ```bash
-  git clone https://github.com/ankurshashwat/blockRIDE
+  git clone https://github.com/AyushiDevaria/talkative
 ```
 
 Install dependencies, you should have nodejs installed, go to the project directory
